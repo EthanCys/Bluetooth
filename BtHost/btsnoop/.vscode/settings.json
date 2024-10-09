@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "btsnoop.h": "c",
+        "stdint.h": "c",
+        "cstdint": "c"
+    }
+}
